@@ -7,6 +7,6 @@ window.SESOMEX_CONFIG = {
     messagingSenderId: "320592007878",
     appId: "1:320592007878:web:99c9ab7b13dad25aa7bdc7"
   },
-  doctorEmail: "doctor@sesomex.com",
+  doctorEmail: "dr.carloschavez@outlook.com",
   dominioClientes: "clientes.sesomex.app"
 };
